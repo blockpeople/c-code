@@ -1,25 +1,31 @@
 #include<bits/stdc++.h>
 using namespace std;
-
-int n, a[10000], k = 0, b = 0;
-
-int main() {
-	cin >> n;
-	for (int i = 0; i < n; i++) {
-		cin >> k;
-		a[k]++;
-	}
-	for (int i = 0; i < n + 1; i++) {
-		if (a[i] > 0) {
-			b++;
-		}
-	}
-	cout << b;
-	for (int i = 0; i < n + 1; i++) {
-		while (a[i] > 0) {
-			cout << i << " ";
-			a[i]=0;
-		}
-	}
-	return 0;
+int n = 0, t = 0, f = 0, a[10000] = {0};
+int main(){
+    cin >> n;
+    for (int i = 0; i < n; i++) {
+        cin >> a[i];
+    }
+    for (int i = 1; i < n; i++) {
+        for (int j = 0; j < n - 1; j++) {
+            if (a[j] > a[j + 1]) {
+                t = a[j];
+                a[j] = a[j + 1];
+                a[j + 1] = t;
+            }
+        }
+    }
+    f = 0;
+    for (int i = 0; i < n - 1; i++) {
+        if (a[i] != a[i + 1]) {
+            f++;
+        }
+    }
+    printf("%d\n", f + 1);
+    for (int i = 0; i < n; i++){
+        if (a[i] != a[i + 1]) {
+            printf("%d ", a[i]);
+        }
+    }
+    return 0;
 }
