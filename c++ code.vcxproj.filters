@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="【17NOIP普及组】成绩.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例2.2】整数的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例2.14】平均分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例3.1】偶数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例3.2】范围判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例3.3】三个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例3.4】适合晨练.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例3.5】收费.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例3.7】最大的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.1】for循环求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.2】输出偶数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.3】输出奇偶数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.4】求阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.5】第几项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.6】最大公约数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.8】数据统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.13】三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例4.14】百钱买百鸡.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.1】反序输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.2】平移数据.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.3】开关门.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.4】约瑟夫问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.5】最大数位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.7】筛选法找质数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.9】新矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.10】稀疏矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.11】杨辉三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.16】过滤空格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.18】串排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.18】串排序2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例5.19】字符串判等.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1170.2的n次方.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2002.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2029.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B2034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1000.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1046.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1085.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1217.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1307.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1412.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1421.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1422.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1425.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1580.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1901.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P2433.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P3954.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P4414.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5703.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5704.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5705.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5706.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5707.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5708.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5709.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5710.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5711.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5712.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5713.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5714.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5716.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5717.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5718.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5719.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5720.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5721.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P5742.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PRINTF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奥运奖牌计数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="保留12位小数的浮点数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="暴躁的老师.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="波那契数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="不与最大数相同的数字之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="插入排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="成绩统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="乘方计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冲浪.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="此消彼长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印ASCII码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印倒三角.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="带余除法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单词的长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="倒序数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="地球人口承载力估计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第2个程序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="对齐输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列第几项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分解质因数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分离整数的各个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分苹果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="高精度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="高精度乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="高精度除法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="高精度加法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="高精度减法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="工作安排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="过河问题2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="含k个3的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数递归.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合并果子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="华氏温度转摄氏度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回文三位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="鸡尾酒疗法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="级数求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计数问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算(a+b)×c的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算(a+b)÷c的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算并联电阻的阻值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算多项式的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算分数的浮点数值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算分数加减表达式的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算矩阵边缘元素之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算星期几.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算邮资.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="甲流疫情死亡率.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="简单算术表达式求值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="将字符串中的小写字母转换成大写字母.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="交换值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="角谷猜想.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="角谷猜想2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="金银岛2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="津津的储蓄计划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="晶晶赴约会.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="救援.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵加法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵转置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="绝对素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="均值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="开关灯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快乐干饭人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="满足条件的数累加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="明明的随机数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="年龄与疾病.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛吃草.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排列组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排座椅.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断数正负.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奇怪的接龙（DEBUG）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奇偶ASCII值判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奇数求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="旗鼓相当的对手.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求1+2+3+....cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求分数序列和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求平均年龄.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求小数的某一位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求整数的和与均值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="人口增长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="人数x10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="谁考了第k名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出第2个数再输出第1个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出第2个整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出绝对值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组逆序重存放.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="素数对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="素数个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="陶陶摘苹果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="梯形面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计满足条件的4位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计数字字符个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线段覆盖.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="小洋人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="校门外的树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="药房管理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="有一门课不及格的学生.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="余数相同问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="与圆相关的计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="与指定数字相同的数的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="原根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="圆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找第一个只出现一次的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="珍珠项链.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="正常血压.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="正三角.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="纸牌游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="转进制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大乘积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大乘积2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大跨度值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大数max(x,y,z).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大值和最小值的差.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子段和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最高的分数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="成绩排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【例2.2】车厢重组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="桶排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="明明的随机数2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
